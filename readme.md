@@ -9,8 +9,8 @@ Instructions:
 2. Run Arduino IDE
 3. On "Tools" tab, Go to Board: > Boards Manager..
 4. Search for "Arduino Mbed OS RP2040 Boards", and click "Install", some pop-ups will appear, install everything
-5. Download the code (Code > Doenload Zip) on the Github page
+5. Download the code (Code > Download Zip) on the Github page
 6. Open "PI_Pico_KeepAwake.ino"
-7. Press the button on the pi pico board as you plug in the pi pico, than release the button
+7. Press the button on the pi pico board as you plug in the pi pico, then release the button
 8. On "Tools" tab, Go to Board: > Arduino Mbed OS RP2040 Boards > Raspberry Pi Pico
 9. Click The Upload button
